@@ -27,6 +27,7 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEAL
 #define TYPE_TEMPERATURE "temp" // Temperature
 #define TYPE_VOLTAGE "voltage" // Voltage
 #define TYPE_DIGITAL_SENSOR "digital_sensor" // Voltage
+#define TYPE_RSSI "rssi"  // rssi signal
 
 #define MAX_TYPE_LENGTH 14
 
@@ -46,6 +47,7 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEAL
 #define UNIT_CELSIUS "c" // Celsius
 #define UNIT_KELVIN "k" // Kelvin
 #define UNIT_MILLIVOLTS "mv" // Millivolts
+#define UNIT_RSSI "dbm"
 
 #define MAX_UNIT_LENGTH 4
 
